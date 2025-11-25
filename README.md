@@ -40,7 +40,7 @@ I’m building projects that help me grow into a strong developer.
 - Build solid data science + ML portfolio projects  
 - Improve Python proficiency  
 - Strengthen frontend basics  
-- Become internship-ready by December  
+- Become internship-ready by March 2026
 - Learn practical development workflows
 
 ---
