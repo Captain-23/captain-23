@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hey, I'm Arnav!
 
-<!--
-**Captain-23/captain-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a student and developer focused on **Python**, **Data Science**, and **Web Development**.  
+I’m building projects that help me grow into a strong developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Data analysis & visualization  
+- Machine learning model development  
+- Frontend web development (HTML, CSS, JavaScript)  
+- End-to-end project building to strengthen fundamentals
+
+---
+
+## 🛠️ Tech Stack
+
+### **Data & Machine Learning**
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Scikit-Learn  
+
+### **Web Development**
+- HTML  
+- CSS  
+- JavaScript  
+
+### **Other Tools**
+- Jupyter Notebook  
+- VSCode  
+- Git & GitHub  
+
+---
+
+## 📊 Current Goals
+- Build solid data science + ML portfolio projects  
+- Improve Python proficiency  
+- Strengthen frontend basics  
+- Become internship-ready by December  
+- Learn practical development workflows
+
+---
+
+⭐ *Thanks for visiting! Check out my projects — more coming soon.*  
