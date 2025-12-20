@@ -45,4 +45,4 @@ I’m building projects that help me grow into a strong developer.
 
 ---
 
-⭐ *Thanks for visiting! Check out my projects — more coming soon.*  
+⭐ *Thanks for visiting! Check out my projects, more coming soon.*  
