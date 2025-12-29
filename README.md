@@ -2,7 +2,7 @@
 
 🎓 Student Developer | 🐍 Python | 📊 Data Science | 🌐 Web Development  
 
-I enjoy building **practical projects** that strengthen my fundamentals and help me grow into a **strong, internship ready developer**.
+I enjoy building **practical projects** that strengthen my fundamentals and help me grow into a **strong, internship-ready developer**.
 
 ---
 
@@ -38,11 +38,11 @@ I enjoy building **practical projects** that strengthen my fundamentals and help
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnavsus&show_icons=true&theme=tokyonight&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnavsus&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavsus&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnavsus&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnavsus&theme=tokyonight&hide_border=true)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arnavsus&theme=tokyonight)
 
 </div>
 
