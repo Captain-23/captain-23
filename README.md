@@ -51,16 +51,9 @@ One project at a time 🚀
 
 ---
 
-## 📌 About This Profile
-- 📁 Projects focused on **learning by building**
-- 🛠️ Clean, simple implementations
-- 📚 Constant improvement mindset
-
----
-
 <div align="center">
 
 ⭐ **Thanks for visiting!**  
-More projects coming soon — stay tuned 🚀
+More projects coming soon stay tuned 🚀
 
 </div>
