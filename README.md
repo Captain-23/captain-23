@@ -38,7 +38,7 @@ One project at a time 🚀
 - 📊 Data analysis & visualization  
 - 🤖 Machine learning model development  
 - 🌐 Frontend web development  
-- 🧠 End-to-end projects to strengthen core fundamentals  
+- 🧠 End to end projects to strengthen core fundamentals  
 
 ---
 
