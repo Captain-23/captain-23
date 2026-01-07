@@ -44,10 +44,10 @@ One project at a time 🚀
 
 ## 📈 Current Goals
 - Build **strong Data Science & ML portfolio projects**
-- Improve **Python problem-solving skills**
+- Improve **Python problem solving skills**
 - Strengthen **frontend fundamentals**
-- Become **internship-ready by March 2026**
-- Learn **real-world development workflows**
+- Become **internship ready by March 2026**
+- Learn **real world development workflows**
 
 ---
 
