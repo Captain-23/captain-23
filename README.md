@@ -63,7 +63,13 @@ const captain23 = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Captain--23-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Captain-23)
+[![GitHub](https://img.shields.io/badge/GitHub-Captain--23-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Captain-23)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav%20Alok-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/arnav-alok-570a96321/)
+
+[![Email](https://img.shields.io/badge/Email-arnavaalok%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:arnavaalok@gmail.com)
+
+</div>
 
 </div>
 
@@ -75,4 +81,4 @@ const captain23 = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Captain-23&color=ffffff&style=flat-square&label=PROFILE+VIEWS)
 
-</div>](https://img.shields.io/badge)
+</div>
