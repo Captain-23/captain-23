@@ -34,16 +34,39 @@ const captain23 = {
 
 <div align="center">
 
+### 🎨 Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=E34F26)
+
 ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=1572B6)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=ffffff)
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+---
+
+### 📊 Data / ML
+
 ![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=150458)
+
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+
+---
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
+
+![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 </div>
 
@@ -52,7 +75,7 @@ const captain23 = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Captain-23&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=ededed&title_color=ffffff&icon_color=cccccc"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=Captain-23&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=ededed&title_color=ffffff&icon_color=cccccc"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Captain-23&background=0a0a0a&ring=cccccc&fire=cccccc&currStreakNum=ededed&sideNums=ededed&currStreakLabel=cccccc&sideLabels=cccccc&dates=ededed&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-23&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=ededed&title_color=ffffff"/>
 </div>
