@@ -11,7 +11,7 @@
 
 ### ⚡ Frontend Developer · UI Craftsman · Pixel Perfectionist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EDEDED&center=true&vCenter=true&width=500&lines=Building+the+web%2C+one+pixel+at+a+time.;CSS+is+my+superpower.;I+turn+ideas+into+interfaces.;Obsessed+with+clean+UI+%26+UX." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EDEDED&center=true&vCenter=true&width=500&lines=Building+the+web%2C+one+pixel+at+a+time.;I+turn+ideas+into+interfaces.;Obsessed+with+clean+UI+%26+UX." alt="Typing SVG" />
 
 </div>
 
