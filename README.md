@@ -11,73 +11,100 @@
 
 ### ⚡ Frontend Developer · UI Craftsman · Pixel Perfectionist
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:EC4899&height=200&section=header&text=Hi%20There!%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=58&descSize=18" width="100%"/>
+
+# Arnav
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Data+%26+ML+Enthusiast;Always+Building+Something+New)](https://github.com/Captain-23)
+
+<img src="https://komarev.com/ghpvc/?username=Captain-23&label=Profile%20Views&color=9333ea&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Captain-23?label=Followers&style=for-the-badge&color=9333ea&logo=github&logoColor=white" alt="Followers"/>
+
+</div>
+
+<br/>
+
+<h3 align="center">🚀 About Me</h3>
+
+- 🔭 I'm currently working on **[your current project]**
+- 🌱 I'm currently learning **[something new you're picking up]**
+- 👯 I'm looking to collaborate on **[project type / open source]**
+- 💬 Ask me about **Node.js, React, Python, or Machine Learning**
+- 📫 Reach me at **your.email@gmail.com**
+- ⚡ Fun fact: **[something fun about you]**
+
+<br/>
+
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+
+<p align="center"><b>Languages & Frameworks</b></p>
 <p align="center">
-  A computer science student building things for the web and beyond.
+  <img src="https://skillicons.dev/icons?i=nodejs,js,html,css,react,py,cpp" alt="languages and frameworks"/>
 </p>
 
-### 🛠️ What I'm Up To
-- 🔭 I’m currently building a **decentralized contribution and reputation prototype** for an upcoming hackathon.
-- 🌱 I’m currently studying deeper **algorithm design** and diving into **microprocessor architecture**.
-- 💬 Ask me about **full-stack development, data science, or web3**.
+<p align="center"><b>Libraries</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+</p>
 
-<br>
+<p align="center"><b>Tools & Platforms</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,vercel" alt="tools and platforms"/>
+</p>
 
-### 💻 Tech Stack & Tools
+<p align="center"><b>Database</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,prisma" alt="database"/>
+</p>
 
-**Languages & Frameworks**<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<br/>
 
-**Libraries**<br>
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<h3 align="center">📊 GitHub Stats</h3>
 
-**Databases**<br>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Captain-23&show_icons=true&count_private=true&title_color=A855F7&icon_color=38BDF8&text_color=E2E8F0&bg_color=0D1117&border_color=30363D&hide_border=false" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-23&layout=compact&langs_count=8&title_color=A855F7&icon_color=38BDF8&text_color=E2E8F0&bg_color=0D1117&border_color=30363D&hide_border=false" width="49%" alt="Most Used Languages"/>
+</p>
 
-**Tools & Infrastructure**<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Captain-23&theme=dark&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" width="70%" alt="GitHub Streak"/>
+</p>
 
-<br>
+<br/>
 
-### 📊 GitHub Activity
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Captain-23&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="trophies"/>
+</p>
+
+<br/>
+
+<h3 align="center">🤝 Connect with Me</h3>
+
+<p align="center">
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/your-instagram-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/your-x-handle" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3399FF" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=3399FF" alt="Top Languages" />
+  <sub>Thanks for stopping by — feel free to explore my repositories ⭐</sub>
 </div>
 
-<br>
-
-### 🔗 Let's Connect
-<div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/yourusername">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
-<div align="center">
-
-*"Great design is invisible. Bad design is everywhere."*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:EC4899&height=120&section=footer&animation=fadeIn" width="100%"/>
