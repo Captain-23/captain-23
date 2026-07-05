@@ -56,6 +56,8 @@ const captain23 = {
 
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Captain-23&theme=radical&cardType=streak&showProfilePic=false)](https://www.readmecodegen.com/custom-github-card-generator)
 
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Captain-23&theme=radical&cardType=langs&showProfilePic=false)](https://www.readmecodegen.com/custom-github-card-generator)
+
 
 ---
 
