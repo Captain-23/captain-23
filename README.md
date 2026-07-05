@@ -26,17 +26,6 @@
 
 <br/>
 
-<h3 align="center">🚀 About Me</h3>
-
-- 🔭 I'm currently working on **[your current project]**
-- 🌱 I'm currently learning **[something new you're picking up]**
-- 👯 I'm looking to collaborate on **[project type / open source]**
-- 💬 Ask me about **Node.js, React, Python, or Machine Learning**
-- 📫 Reach me at **your.email@gmail.com**
-- ⚡ Fun fact: **[something fun about you]**
-
-<br/>
-
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center"><b>Languages & Frameworks</b></p>
@@ -58,7 +47,7 @@
 
 <p align="center"><b>Database</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,prisma" alt="database"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="database"/>
 </p>
 
 <br/>
@@ -87,16 +76,16 @@
 <h3 align="center">🤝 Connect with Me</h3>
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:arnavaalok@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://instagram.com/your-instagram-handle" target="_blank">
+  <a href="https://instagram.com/captain._.gg" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://x.com/your-x-handle" target="_blank">
+  <a href="https://x.com/" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+  <a href="https://linkedin.com/in/arnav-alok-570a96321/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
