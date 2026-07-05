@@ -11,71 +11,70 @@
 
 ### ⚡ Frontend Developer · UI Craftsman · Pixel Perfectionist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=EDEDED&center=true&vCenter=true&width=500&lines=Building+the+web%2C+one+pixel+at+a+time.;I+turn+ideas+into+interfaces.;Obsessed+with+clean+UI+%26+UX." alt="Typing SVG" />
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
-</div>
+<p align="center">
+  A computer science student building things for the web and beyond.
+</p>
 
----
+### 🛠️ What I'm Up To
+- 🔭 I’m currently building a **decentralized contribution and reputation prototype** for an upcoming hackathon.
+- 🌱 I’m currently studying deeper **algorithm design** and diving into **microprocessor architecture**.
+- 💬 Ask me about **full-stack development, data science, or web3**.
 
-## 🧠 About Me
+<br>
 
-```js
-const captain23 = {
-  role:      "Frontend Developer",
-  focus:     ["Frontend", "Responsive Design", "Data Analysis"],
-  currently: "Building things that look great and feel even better",
-  motto:     "If it's on the screen, it better look damn good.",
-};
-```
+### 💻 Tech Stack & Tools
 
----
+**Languages & Frameworks**<br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 🛠️ Tech Arsenal
+**Libraries**<br>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+**Databases**<br>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+**Tools & Infrastructure**<br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+<br>
+
+### 📊 GitHub Activity
 <div align="center">
-
-### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6) ![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=ffffff) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-
----
-
-### 📊 Data / ML  
-![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=150458) ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-
----
-
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032) ![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) 
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3399FF" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=3399FF" alt="Top Languages" />
 </div>
 
----
+<br>
 
-## 📊 GitHub Stats
-
-
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Captain-23&theme=radical&cardType=streak&showProfilePic=false)](https://www.readmecodegen.com/custom-github-card-generator)
-
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Captain-23&theme=radical&cardType=langs&showProfilePic=false)](https://www.readmecodegen.com/custom-github-card-generator)
-
-
----
-
-## 📡 Connect
-
+### 🔗 Let's Connect
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Captain--23-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Captain-23)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav%20Alok-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/arnav-alok-570a96321/)
-
-[![Email](https://img.shields.io/badge/Email-arnavaalok%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:arnavaalok@gmail.com)
-
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/yourusername">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
-
-</div>
-
----
 
 <div align="center">
 
