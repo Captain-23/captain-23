@@ -60,13 +60,6 @@
  
 </p>
 
-//delete later
-<p align="center">
-  <a href="https://www.burank.app/card/E23CSEU0202">
-    <img src="https://www.burank.app/card/E23CSEU0202" alt="Arnav's BURank Card" width="900" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Captain-23&theme=dark&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" width="70%" alt="GitHub Streak"/>
 </p>
