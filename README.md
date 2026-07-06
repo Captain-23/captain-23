@@ -57,6 +57,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Captain-23&show_icons=true&count_private=true&title_color=A855F7&icon_color=38BDF8&text_color=E2E8F0&bg_color=0D1117&border_color=30363D&hide_border=false" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-23&layout=compact&langs_count=8&title_color=A855F7&icon_color=38BDF8&text_color=E2E8F0&bg_color=0D1117&border_color=30363D&hide_border=false" width="49%" alt="Most Used Languages"/>
+ [![My BURank Card](https://www.burank.app/card/E23CSEU0202)](https://www.burank.app/card/E23CSEU0202)
 </p>
 
 <p align="center">
