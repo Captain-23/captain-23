@@ -66,6 +66,14 @@
 
 <br/>
 
+<h3 align="center">🧩 LeetCode Stats</h3>
+
+<p align="center">
+  <img src="https://www.burank.app/card/S24CSEU1003" alt="LeetCode Stats" width="70%"/>
+</p>
+
+<br/>
+
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
