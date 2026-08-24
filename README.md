@@ -55,9 +55,20 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Captain-23&show_icons=true&count_private=true&title_color=A855F7&icon_color=38BDF8&text_color=E2E8F0&bg_color=0D1117&border_color=30363D&hide_border=false" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-23&layout=compact&langs_count=8&title_color=A855F7&icon_color=38BDF8&text_color=E2E8F0&bg_color=0D1117&border_color=30363D&hide_border=false" width="49%" alt="Most Used Languages"/>
- 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Captain-23&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Captain-23&theme=github_dark" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Captain-23&theme=github-dark&hide_border=true" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Captain-23&bg_color=0D1117&color=A855F7&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Captain-23&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" width="98%" />
 </p>
 
 <p align="center">
