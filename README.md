@@ -59,9 +59,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Captain-23&theme=github_dark" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Captain-23&theme=github-dark&hide_border=true" width="70%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Captain-23&bg_color=0D1117&color=A855F7&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="98%" />
