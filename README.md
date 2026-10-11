@@ -45,16 +45,19 @@ B.Tech CSE student specializing in Data Science | Python, HTML, CSS, JavaScript,
 </tr>
 </table>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=captain-23&show_icons=true&hide_border=true&theme=transparent" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captain-23&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top languages" />
-</p>
+<h2>Languages</h2>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=captain-23&hide_border=true&theme=transparent" width="100%" alt="GitHub streak" />
-</p>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>41%</strong><br /><sub>TypeScript</sub></td>
+<td width="20%" align="center"><strong>18%</strong><br /><sub>Jupyter Notebook</sub></td>
+<td width="20%" align="center"><strong>15%</strong><br /><sub>HTML</sub></td>
+<td width="20%" align="center"><strong>11%</strong><br /><sub>CSS</sub></td>
+<td width="20%" align="center"><strong>9%</strong><br /><sub>JavaScript</sub></td>
+</tr>
+</table>
 
-## Selected work
+<h2>Selected work</h2>
 
 **[BURank](https://github.com/Captain-23/BURank)**: A selected public project. TypeScript · ⭐ 0 · 🍴 1
 
@@ -63,24 +66,6 @@ B.Tech CSE student specializing in Data Science | Python, HTML, CSS, JavaScript,
 **[Folio-bu](https://github.com/Captain-23/Folio-bu)**: A selected public project. TypeScript · ⭐ 0
 
 **[phantasia-blockchain](https://github.com/creatorarno/phantasia-blockchain)**: A selected public project. TypeScript · ⭐ 2
-
-**Contributors to BURank**
-
-<a href="https://github.com/Captain-23/BURank/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Captain-23/BURank" alt="BURank contributors" />
-</a>
-
-## Technical toolkit
-
-TypeScript (41% of public code), Jupyter Notebook (18%), HTML (15%), CSS (11%), and JavaScript (9%).
-
-## Consistency signal
-
-254 contributions across 87 active days.
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=captain-23&theme=github-compact&hide_border=true&bg_color=00000000" width="100%" alt="Contribution graph" />
-</p>
 
 ---
 
