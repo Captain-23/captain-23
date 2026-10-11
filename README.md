@@ -1,109 +1,74 @@
 <div align="center">
 
-```
- ██████╗ █████╗ ██████╗ ████████╗ █████╗ ██╗███╗   ██╗    
-██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██║████╗  ██║   
-██║     ███████║██████╔╝   ██║   ███████║██║██╔██╗ ██║   
-██║     ██╔══██║██╔═══╝    ██║   ██╔══██║██║██║╚██╗██║   
-╚██████╗██║  ██║██║        ██║   ██║  ██║██║██║ ╚████║  
- ╚═════╝╚═╝  ╚═╝╚═╝        ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝   
-```
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · captain-23</sub></p>
+<h1>Arnav Alok</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Hi, I’m Arnav 
 
-### ⚡ Frontend Developer · UI Craftsman · Pixel Perfectionist
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:EC4899&height=200&section=header&text=Hi%20There!%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=58&descSize=18" width="100%"/>
-
-# Arnav
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Data+%26+ML+Enthusiast;Always+Building+Something+New)](https://github.com/Captain-23)
-
-<img src="https://komarev.com/ghpvc/?username=Captain-23&label=Profile%20Views&color=9333ea&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Captain-23?label=Followers&style=for-the-badge&color=9333ea&logo=github&logoColor=white" alt="Followers"/>
-
+B.Tech CSE student specializing in Data Science | Python, HTML, CSS, JavaScript, Node.js| VS Code, MySQL | Interests: AI/ML &amp; Data Science</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in India</sub></p>
+<p><a href="https://github.com/captain-23">GitHub</a> &nbsp;·&nbsp; <a href="https://arnavalok.xyz">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/183374819?u=5ac1f39efcf787a21974d8cd7ad396913039b40a&amp;v=4" width="180" alt="Arnav Alok GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
+<h2>What teams can evaluate quickly</h2>
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · Jupyter Notebook · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>10 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>254 contributions · 87 active days</p></td>
+</tr>
+</table>
 
-<p align="center"><b>Languages & Frameworks</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,html,css,react,py,cpp" alt="languages and frameworks"/>
-</p>
+<p><sub>Hi, I’m Arnav 
 
-<p align="center"><b>Libraries</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-</p>
+B.Tech CSE student specializing in Data Science | Python, HTML, CSS, JavaScript, Node.js| VS Code, MySQL | Interests: AI/ML &amp; Data Science</sub></p>
 
-<p align="center"><b>Tools & Platforms</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,vercel" alt="tools and platforms"/>
-</p>
+<h2>Proof at a glance</h2>
 
-<p align="center"><b>Database</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="database"/>
-</p>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>10</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>254</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<br/>
+## Selected work
 
-<h3 align="center">📊 GitHub Stats</h3>
+**[BURank](https://github.com/Captain-23/BURank)**: A selected public project. TypeScript · ⭐ 0 · 🍴 1
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Captain-23&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Captain-23&theme=github_dark" width="49%" />
-</p>
+**[project-camp-backend](https://github.com/Captain-23/project-camp-backend)**: A selected public project. JavaScript · ⭐ 0
 
+**[Folio-bu](https://github.com/Captain-23/Folio-bu)**: A selected public project. TypeScript · ⭐ 0
 
+**[phantasia-blockchain](https://github.com/creatorarno/phantasia-blockchain)**: A selected public project. TypeScript · ⭐ 2
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Captain-23&bg_color=0D1117&color=A855F7&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="98%" />
-</p>
+## Technical toolkit
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Captain-23&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" width="98%" />
-</p>
+TypeScript (41% of public code), Jupyter Notebook (18%), HTML (15%), CSS (11%), and JavaScript (9%).
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Captain-23&theme=dark&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" width="70%" alt="GitHub Streak"/>
-</p>
+## Consistency signal
 
-<br/>
+254 contributions across 87 active days.
 
-<h3 align="center">🧩 LeetCode Stats</h3>
+---
 
-<p align="center">
-  <img src="https://www.burank.app/card/S24CSEU1003" alt="LeetCode Stats" width="70%"/>
-</p>
+## Let’s talk about the next build
 
-<br/>
+Open to thoughtful teams, ambitious products, and useful engineering work.
 
-<h3 align="center">🤝 Connect with Me</h3>
+[GitHub](https://github.com/captain-23) · [Website](https://arnavalok.xyz)
 
-<p align="center">
-  <a href="mailto:arnavaalok@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/captain._.gg" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://linkedin.com/in/arnav-alok-570a96321/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<br/>
-
-<div align="center">
-  <sub>Thanks for stopping by — feel free to explore my repositories ⭐</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:EC4899&height=120&section=footer&animation=fadeIn" width="100%"/>
+Arnav Alok · recruiter-ready profile
