@@ -12,8 +12,9 @@ B.Tech CSE student specializing in Data Science | Python, HTML, CSS, JavaScript,
 <p><strong>Building and sharing work in public</strong></p>
 <p><sub>Based in India</sub></p>
 <p>
-  <a href="https://github.com/captain-23"><img src="icons/github.svg" width="14" alt="" /> GitHub</a> &nbsp;·&nbsp;
-  <a href="https://arnavalok.xyz"><img src="icons/website.svg" width="14" alt="" /> Website</a>
+  <a href="https://github.com/captain-23"><img src="./icons/github.svg" width="14" height="14" alt="GitHub" /> GitHub</a> &nbsp;·&nbsp;
+  <a href="https://arnavalok.xyz"><img src="./icons/website.svg" width="14" height="14" alt="Website" /> Website</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="./icons/linkedin.svg" width="14" height="14" alt="LinkedIn" /> LinkedIn</a>
 </p>
 </td>
 <td width="36%" valign="middle" align="center">
@@ -63,16 +64,16 @@ B.Tech CSE student specializing in Data Science | Python, HTML, CSS, JavaScript,
 <h2>Selected work</h2>
 
 **[BURank](https://github.com/Captain-23/BURank)**: A selected public project.
-<sub>TypeScript · <img src="icons/star.svg" width="12" alt="" /> 0 · <img src="icons/fork.svg" width="12" alt="" /> 1</sub>
+<sub>TypeScript · <img src="./icons/star.svg" width="12" height="12" alt="stars" /> 0 · <img src="./icons/fork.svg" width="12" height="12" alt="forks" /> 1</sub>
 
 **[project-camp-backend](https://github.com/Captain-23/project-camp-backend)**: A selected public project.
-<sub>JavaScript · <img src="icons/star.svg" width="12" alt="" /> 0</sub>
+<sub>JavaScript · <img src="./icons/star.svg" width="12" height="12" alt="stars" /> 0</sub>
 
 **[Folio-bu](https://github.com/Captain-23/Folio-bu)**: A selected public project.
-<sub>TypeScript · <img src="icons/star.svg" width="12" alt="" /> 0</sub>
+<sub>TypeScript · <img src="./icons/star.svg" width="12" height="12" alt="stars" /> 0</sub>
 
 **[phantasia-blockchain](https://github.com/creatorarno/phantasia-blockchain)**: A selected public project.
-<sub>TypeScript · <img src="icons/star.svg" width="12" alt="" /> 2</sub>
+<sub>TypeScript · <img src="./icons/star.svg" width="12" height="12" alt="stars" /> 2</sub>
 
 ---
 
@@ -81,8 +82,9 @@ B.Tech CSE student specializing in Data Science | Python, HTML, CSS, JavaScript,
 Open to thoughtful teams, ambitious products, and useful engineering work.
 
 <p>
-  <a href="https://github.com/captain-23"><img src="icons/github.svg" width="14" alt="" /> GitHub</a> &nbsp;·&nbsp;
-  <a href="https://arnavalok.xyz"><img src="icons/website.svg" width="14" alt="" /> Website</a>
+  <a href="https://github.com/captain-23"><img src="./icons/github.svg" width="14" height="14" alt="GitHub" /> GitHub</a> &nbsp;·&nbsp;
+  <a href="https://arnavalok.xyz"><img src="./icons/website.svg" width="14" height="14" alt="Website" /> Website</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="./icons/linkedin.svg" width="14" height="14" alt="LinkedIn" /> LinkedIn</a>
 </p>
 
 <p align="center"><sub>Arnav Alok · recruiter-ready profile</sub></p>
