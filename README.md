@@ -6,12 +6,15 @@
 <p><sub>RECRUITER SIGNAL BRIEF · captain-23</sub></p>
 <h1>Arnav Alok</h1>
 <h2>Frontend or full-stack engineer</h2>
-<p>Hi, I’m Arnav 
+<p>Hi, I’m Arnav
 
-B.Tech CSE student specializing in Data Science | Python, HTML, CSS, JavaScript, Node.js| VS Code, MySQL | Interests: AI/ML &amp; Data Science</p>
-<p><strong>● Building and sharing work in public</strong></p>
+B.Tech CSE student specializing in Data Science | Python, HTML, CSS, JavaScript, Node.js | VS Code, MySQL | Interests: AI/ML &amp; Data Science</p>
+<p><strong>Building and sharing work in public</strong></p>
 <p><sub>Based in India</sub></p>
-<p><a href="https://github.com/captain-23">GitHub</a> &nbsp;·&nbsp; <a href="https://arnavalok.xyz">Website</a></p>
+<p>
+  <a href="https://github.com/captain-23"><img src="icons/github.svg" width="14" alt="" /> GitHub</a> &nbsp;·&nbsp;
+  <a href="https://arnavalok.xyz"><img src="icons/website.svg" width="14" alt="" /> Website</a>
+</p>
 </td>
 <td width="36%" valign="middle" align="center">
 <img src="https://avatars.githubusercontent.com/u/183374819?u=5ac1f39efcf787a21974d8cd7ad396913039b40a&amp;v=4" width="180" alt="Arnav Alok GitHub avatar" />
@@ -30,9 +33,9 @@ B.Tech CSE student specializing in Data Science | Python, HTML, CSS, JavaScript,
 </tr>
 </table>
 
-<p><sub>Hi, I’m Arnav 
+<p><sub>Hi, I’m Arnav
 
-B.Tech CSE student specializing in Data Science | Python, HTML, CSS, JavaScript, Node.js| VS Code, MySQL | Interests: AI/ML &amp; Data Science</sub></p>
+B.Tech CSE student specializing in Data Science | Python, HTML, CSS, JavaScript, Node.js | VS Code, MySQL | Interests: AI/ML &amp; Data Science</sub></p>
 
 <h2>Proof at a glance</h2>
 
@@ -59,13 +62,17 @@ B.Tech CSE student specializing in Data Science | Python, HTML, CSS, JavaScript,
 
 <h2>Selected work</h2>
 
-**[BURank](https://github.com/Captain-23/BURank)**: A selected public project. TypeScript · ⭐ 0 · 🍴 1
+**[BURank](https://github.com/Captain-23/BURank)**: A selected public project.
+<sub>TypeScript · <img src="icons/star.svg" width="12" alt="" /> 0 · <img src="icons/fork.svg" width="12" alt="" /> 1</sub>
 
-**[project-camp-backend](https://github.com/Captain-23/project-camp-backend)**: A selected public project. JavaScript · ⭐ 0
+**[project-camp-backend](https://github.com/Captain-23/project-camp-backend)**: A selected public project.
+<sub>JavaScript · <img src="icons/star.svg" width="12" alt="" /> 0</sub>
 
-**[Folio-bu](https://github.com/Captain-23/Folio-bu)**: A selected public project. TypeScript · ⭐ 0
+**[Folio-bu](https://github.com/Captain-23/Folio-bu)**: A selected public project.
+<sub>TypeScript · <img src="icons/star.svg" width="12" alt="" /> 0</sub>
 
-**[phantasia-blockchain](https://github.com/creatorarno/phantasia-blockchain)**: A selected public project. TypeScript · ⭐ 2
+**[phantasia-blockchain](https://github.com/creatorarno/phantasia-blockchain)**: A selected public project.
+<sub>TypeScript · <img src="icons/star.svg" width="12" alt="" /> 2</sub>
 
 ---
 
@@ -73,6 +80,9 @@ B.Tech CSE student specializing in Data Science | Python, HTML, CSS, JavaScript,
 
 Open to thoughtful teams, ambitious products, and useful engineering work.
 
-[GitHub](https://github.com/captain-23) · [Website](https://arnavalok.xyz)
+<p>
+  <a href="https://github.com/captain-23"><img src="icons/github.svg" width="14" alt="" /> GitHub</a> &nbsp;·&nbsp;
+  <a href="https://arnavalok.xyz"><img src="icons/website.svg" width="14" alt="" /> Website</a>
+</p>
 
-Arnav Alok · recruiter-ready profile
+<p align="center"><sub>Arnav Alok · recruiter-ready profile</sub></p>
